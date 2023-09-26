@@ -42,3 +42,34 @@ Recursos Bibliográficos:
 
 [5] Guía de migración de proyectos Java a Maven https://www.viafirma.com/blog-xnoccio/es/guia-de-migracion-de-proyectos-java-a-maven/
 
+
+
+
+
+![Static Badge](https://img.shields.io/badge/Ejercicio%20-%20Grupal%2001-blue?labelColor=abcdef&cacheSeconds=3200)![Static Badge](https://img.shields.io/badge/Modulo%206%20-%20orange?labelColor=abcdef&cacheSeconds=3200)
+
+
+## **Integrantes :**
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Angelica%20-%20Romero%20-%20violet?cacheSeconds=3200" alt="Texto alternativo 1"></td>
+    <td><img src="https://img.shields.io/badge/Bastian%20-%20Mariangel%20-%20red?cacheSeconds=3200" alt="Texto alternativo 2"></td>
+    <td><img src="https://img.shields.io/badge/Ivan%20-%20Mieres%20-%20green?cacheSeconds=3200" alt="Texto alternativo 2"></td>
+    <td><img src="https://img.shields.io/badge/Patricio%20-%20Bonnin%20-%20brown?cacheSeconds=3200" alt="Texto alternativo 2"></td>
+    <td><img src="https://img.shields.io/badge/Roberto%20-%20Rivas%20-%20blue?cacheSeconds=3200" alt="Texto alternativo 2"></td>
+
+  </tr>
+</table>
+
+![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_1_Modulo_6/assets/131497718/7ca16a02-ccf9-4270-87d5-05e28a404172)
+![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_1_Modulo_6/assets/131497718/7644ee27-1f67-41cd-8523-8f415f51bd38)
+![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_1_Modulo_6/assets/131497718/b90b1235-6e3f-498c-8890-ddfb5b3fcc71)
+![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_1_Modulo_6/assets/131497718/46618271-d1ca-4298-ab95-3a5119d51d35)
+![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_1_Modulo_6/assets/131497718/203eeecf-1454-413f-8451-8068a1b2b5bd)
+
+
+
+
+
+
+
